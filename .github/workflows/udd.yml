@@ -19,3 +19,4 @@ jobs:
         with:
           title: 'chore(deps): Update dependencies'
           commit-message: 'chore(deps): Update dependencies'
+          delete-branch: true
