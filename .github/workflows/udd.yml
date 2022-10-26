@@ -16,3 +16,4 @@ jobs:
           deno run -A https://deno.land/x/udd/main.ts ./import_map.json
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v4
+        title: 'chore(deps): Update'
